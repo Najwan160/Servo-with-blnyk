@@ -5,9 +5,9 @@
 #define BLYNK_PRINT Serial
 
 Servo servo;
-char auth[]= "GDC80L8PG8Mx8yPqiM7fQ-QacHFRrEKg";
-char ssid[]= "NajwanNuha";
-char pswd[]= "blacktrajet";
+char auth[]= "xxxxxxxxxxxxx"; //blynk tokrn
+char ssid[]= "xxxxxxxxx"; //wifi name
+char pswd[]= "xxxxxx"; //password wifi
 
 void setup() {
   Serial.begin(9600);
